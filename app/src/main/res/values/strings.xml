@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Github Repo Viewer</string>
+    <string name="list_error">Something went wrong</string>
+    <string name="list_error_try_again">Try again</string>
+
+    <string name="repo_detail_owner">Owner: %s</string>
+    <string name="repo_detail_top_contributor">Top Contributor: %s</string>
+    <string name="repo_detail_top_contributor_error">Error</string>
+    <string name="repo_detail_url">Repository Site</string>
+</resources>
